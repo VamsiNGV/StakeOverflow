@@ -28,7 +28,7 @@ import config.Constants;
             	try
             	{
             	  Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
-                  String CellData = Cell.getStringCellValue();
+                  String CellData = Cell.toString();
                   return CellData;
             	}
             	catch(Exception e) {

@@ -1,5 +1,0 @@
-#Home Page objects
-txtbx_DisplayName = "display-name"
-txtbx_Email = "email"
-txtbx_Password = "password"
-btn_Submit = "submit-button"

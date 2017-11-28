@@ -4,8 +4,8 @@ public class Constants {
 
 	public static final String URL = "https://stackoverflow.com/";
 	public static final String Path_TestData = "G://Eclipse Oxygen Programs//GitLocalRep//stakeOverflow//src//dataEngine//TestData1.xlsx";
-	public static final String Path_OR = "G://Eclipse Oxygen Programs//GitLocalRep//stakeOverflow//src//config//OR.txt";
-	public static final String File_TestData = "DataEngine.xlsx";
+	public static final String Path_OR = "G://Eclipse Oxygen Programs//GitLocalRep//stakeOverflow//src//config//OR.properties";
+	public static final String File_TestData = "TestData1.xlsx";
  
 	//List of Data Sheet Column Numbers
 	public static final int Col_TestCaseID = 0;	
