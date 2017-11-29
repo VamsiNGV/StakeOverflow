@@ -1,10 +1,9 @@
 package executionEngine;
 
+import org.testng.annotations.Test;
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
 import java.util.Properties;
-
-import org.junit.Test;
 
 import config.ActionKeywords;
 import config.Constants;
